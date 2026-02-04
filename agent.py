@@ -47,7 +47,7 @@ class ToolChoosingAgent:
         print("\n================ EXECUTION RESULTS =====================\n")
 
         results=execute(best,data)
-        for i,r in enumerate(results[:4],1):
+        for i,r in enumerate(results[:10],1):
             print(f"Review {i} : {r}")
 
         return results
