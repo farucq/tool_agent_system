@@ -1,0 +1,4 @@
+constraints:
+  speed_weight: 0.35
+  accuracy_weight: 0.30
+  resource_weight: 0.35
