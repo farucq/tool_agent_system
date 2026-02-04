@@ -1,5 +1,0 @@
-constraints:
-  dataset_size_weight: 0.3
-  speed_weight: 0.25
-  accuracy_weight: 0.25
-  resource_weight: 0.2
